@@ -5,8 +5,7 @@ A minimal computational architecture for artificial agency that structurally rej
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Zenodo DOI](https://doi.org/10.5281/zenodo.18249191.svg)](https://doi.org/10.5281/zenodo.18249191)
-https://doi.org/10.5281/zenodo.18249191
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18249191.svg)](https://doi.org/10.5281/zenodo.18249191)
 
 ## Overview
 
@@ -25,7 +24,7 @@ This repository contains the reference implementation used in the paper:
 
 > Tanriverdi, T. (2026). Chaotic Character Reservoir: Identity-Centered, Non-Instrumental Artificial Agency. (preprint)
 
-Paper available on Zenodo: [[DOI:10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)  ](https://doi.org/10.5281/zenodo.18249191)
+Paper available on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18249191.svg)](https://doi.org/10.5281/zenodo.18249191)
 
 
 ## Core Features Demonstrated
