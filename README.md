@@ -67,7 +67,12 @@ Produces:Gradual & immediate crisis modes (2 seeds shown)
 Crisis frequency, violations, gamma trajectories
 Plots: crisis_dynamics_gradual.png, crisis_dynamics_immediate.png
 
-Shows: Graded crisis onset, finite sacrificial identity, lasting bounded reorganization.CitationIf you use this code in your research, please cite the accompanying paper:bibtex
+
+Shows: Graded crisis onset, finite sacrificial identity, lasting bounded reorganization.
+
+Citation: If you use this code in your research, please cite the accompanying paper:
+
+bibtex
 
 @misc{tanriverdi2026ccr,
   author = {Tanriverdi, Turan},
